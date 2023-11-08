@@ -1,19 +1,21 @@
-package practice5;
+package ua.bondar.hw25;
 
-public class task3 {
+import java.util.Scanner;
+
+public class Task3 {
     public static void main(String[] args) {
-        int[] prices = {500, 754, 567, 1450, 2350, 232, 123, 2, 3, 109, 1090, 3000};
-        int sum = sumProductWithPriceMore1000(prices);
-        System.out.println("Загальна сума = " + sum);
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Я Бондарь Евгений, Ученик школы А-ЛЕВЕЛ: ");
+        String input = scanner.nextLine();
+
+        int wordCount = countWords(input);
+        System.out.println("Кількість слів у введеному рядку: " + wordCount);
     }
 
-    public static int sumProductWithPriceMore1000(int[] array) {
-        int sum = 0;
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] > 1000) {
-                sum = sum + array[i];
-            }
-        }
-        return sum;
+    public static int countWords(String input) {
+        // Розділити рядок на слова, використовуючи пробіли як роздільник
+        String[] words = input.split("\\s+");
+        return words.length;
     }
 }
