@@ -1,3 +1,5 @@
+package ua.bondar.hw24;
+
 public class Dz_24_Task4 {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package ua.bondar.hw23;
+
 public class DZ_23_Task2 {
     public static void main(String[] args) {
         int a = 1;

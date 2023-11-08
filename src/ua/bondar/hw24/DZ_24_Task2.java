@@ -1,3 +1,5 @@
+package ua.bondar.hw24;
+
 public class DZ_24_Task2 {
     public static void main(String[] args) {
         double xA = 1, yA = 5;
