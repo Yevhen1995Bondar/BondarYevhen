@@ -1,6 +1,6 @@
 package ua.bondar.hw27;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         int[][] originalArray = {
                 {1, 2, 1, 3},

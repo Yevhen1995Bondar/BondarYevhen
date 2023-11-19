@@ -1,6 +1,6 @@
 package ua.bondar.hw27;
 
-    public class task1 {
+    public class Task1 {
         public static void main(String[] args) {
             int rows = 4; // Кількість рядків
             int cols = 3; // Кількість стовпців

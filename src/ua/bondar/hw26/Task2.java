@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         int[] array = new int[1000];
         fillArray(array);

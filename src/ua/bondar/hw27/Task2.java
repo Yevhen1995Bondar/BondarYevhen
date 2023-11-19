@@ -2,7 +2,7 @@ package ua.bondar.hw27;
 
 import java.util.Arrays;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         int[] originalArray = {10, 8, 6, 4, 2, 1}; // Приклад масиву для перевірки
         boolean isSorted = isSortedDescending(originalArray);
