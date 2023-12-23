@@ -1,26 +1,26 @@
 package ua.bondar.hw28;
 
-public class Task1 {
+public class Phone {
     private String number;
     private String model;
     private double weight;
 
     // Конструктор с тремя параметрами
-    public Task1(String number, String model, double weight) {
+    public Phone(String number, String model, double weight) {
         this.number = number;
         this.model = model;
         this.weight = weight;
     }
 
     // Конструктор с двумя параметрами
-    public Task1(String number, String model) {
+    public Phone(String number, String model) {
         this.number = number;
         this.model = model;
         this.weight = 0;
     }
 
     // Конструктор без параметров
-    public Task1() {
+    public Phone() {
         this.number = "Unknown";
         this.model = "Unknown";
         this.weight = 0;
@@ -37,10 +37,10 @@ public class Task1 {
     }
 
     public static void main(String[] args) {
-        // Создаем три экземпляра класса Task1
-        Task1 phone1 = new Task1("123456789", "Samsung", 150.0);
-        Task1 phone2 = new Task1("987654321", "iPhone");
-        Task1 phone3 = new Task1();
+        // Создаем три экземпляра класса Phone
+        Phone phone1 = new Phone("123456789", "Samsung", 150.0);
+        Phone phone2 = new Phone("987654321", "iPhone");
+        Phone phone3 = new Phone();
 
         // Присваиваем значения полям класса
         phone2.weight = 200.0;
