@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6cbf5e1-a647-428a-ad17-7731944fee6b" name="Changes" comment="11.02.2023">
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw30/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw30/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw31/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw31/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw34/task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw23/DZ_23_Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw23/DZ_23_Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/DZ_24_Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/Dz_24_Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/Dz_24_Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw25/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw25/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw27/task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw27/task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw28/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw28/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/bondar/hw28/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/bondar/hw28/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/bondar/hw28/Task2.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw36/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw36/task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +62,8 @@
   }
 }</component>
   <component name="RunManager" selected="Application.task1">
-    <configuration name="ArrayListTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw32.ArrayListTraversal" />
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw32.PhoneBook" />
       <module name="A-Level" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.Task2" />
+    <configuration name="PrimeNumberCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw36.PrimeNumberCounter" />
       <module name="A-Level" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.bondar.hw30.*" />
+          <option name="PATTERN" value="ua.bondar.hw36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseThreadOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw36.ReverseThreadOrder" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw32.task1" />
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw37.task1" />
       <module name="A-Level" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.bondar.hw32.*" />
+          <option name="PATTERN" value="ua.bondar.hw37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ua.bondar.hw30.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.task1" />
+    <configuration name="ua.bondar.hw36.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw36.task1" />
       <module name="A-Level" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.bondar.hw30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ua.bondar.hw30.task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.task2" />
-      <module name="A-Level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.bondar.hw30.*" />
+          <option name="PATTERN" value="ua.bondar.hw36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,10 +130,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.task1" />
-        <item itemvalue="Application.ArrayListTraversal" />
-        <item itemvalue="Application.ua.bondar.hw30.task2" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.ua.bondar.hw30.task1" />
+        <item itemvalue="Application.PrimeNumberCounter" />
+        <item itemvalue="Application.ua.bondar.hw36.task1" />
+        <item itemvalue="Application.ReverseThreadOrder" />
+        <item itemvalue="Application.PhoneBook" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +314,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700423472691</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1703345975552</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703345975552</updated>
+    </task>
+    <task id="LOCAL-00023" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1703345992214</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1703345992214</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
