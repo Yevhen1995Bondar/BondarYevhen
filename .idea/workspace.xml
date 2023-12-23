@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6cbf5e1-a647-428a-ad17-7731944fee6b" name="Changes" comment="11.02.2023">
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw30/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw30/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw31/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw31/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw34/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw23/DZ_23_Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw23/DZ_23_Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/DZ_24_Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/Dz_24_Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw24/Dz_24_Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw25/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw25/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw27/task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw27/task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw28/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A-Level/ua/bondar/hw28/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/bondar/hw28/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/bondar/hw28/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/bondar/hw28/Task2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yevhen1995Bondar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="30e57453-3c01-4f76-98e2-588746d154aa" />
+        <option name="url" value="https://github.com/Yevhen1995Bondar/BondarYevhen.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XML0P5UFSnqEMozvBlBJYeUGO2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/basst/IdeaProjects/A-Level/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.task1">
+    <configuration name="ArrayListTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw32.ArrayListTraversal" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.Task2" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw32.task1" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.bondar.hw30.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.task1" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.bondar.hw30.task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.bondar.hw30.task2" />
+      <module name="A-Level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.bondar.hw30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.ArrayListTraversal" />
+        <item itemvalue="Application.ua.bondar.hw30.task2" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.ua.bondar.hw30.task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6cbf5e1-a647-428a-ad17-7731944fee6b" name="Changes" comment="" />
+      <created>1698433779782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698433779782</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1698436243249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698436243249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Variant 1">
+      <option name="closed" value="true" />
+      <created>1698436465299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698436465299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698436551300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698436551300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698436669848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698436669848</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698489932605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698489932605</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698497352060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698497352060</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698498065156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698498065156</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698917657813</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698917657813</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698917700597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698917700597</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Variant 12">
+      <option name="closed" value="true" />
+      <created>1698920557905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698920557905</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1698923064785</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698923064785</updated>
+    </task>
+    <task id="LOCAL-00012" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1698939397759</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698939397759</updated>
+    </task>
+    <task id="LOCAL-00013" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699439839582</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699439839582</updated>
+    </task>
+    <task id="LOCAL-00014" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699439886732</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699439886732</updated>
+    </task>
+    <task id="LOCAL-00015" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699440714758</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699440714758</updated>
+    </task>
+    <task id="LOCAL-00016" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699441902897</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699441902897</updated>
+    </task>
+    <task id="LOCAL-00017" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699441988724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699441988724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1699443599301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699443599301</updated>
+    </task>
+    <task id="LOCAL-00019" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1700404560184</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700404560185</updated>
+    </task>
+    <task id="LOCAL-00020" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1700422992090</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422992090</updated>
+    </task>
+    <task id="LOCAL-00021" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1700423472691</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1700423472691</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="Variant 1" />
+    <MESSAGE value="Variant 12" />
+    <MESSAGE value="11.02.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.02.2023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ua/bondar/hw34/task1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ua/bondar/hw31/task1.java</url>
+          <line>3</line>
+          <properties class="ua.bondar.hw31.task1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A_Level$Task2.ic" NAME="Task2 Coverage Results" MODIFIED="1700405399690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.bondar.hw28.*</FILTER>
+    </SUITE>
+  </component>
+</project>
