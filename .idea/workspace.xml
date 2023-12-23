@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cbf5e1-a647-428a-ad17-7731944fee6b" name="Changes" comment="11.02.2023">
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/ListUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw32/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw36/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/bondar/hw36/task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6cbf5e1-a647-428a-ad17-7731944fee6b" name="Changes" comment="11.02.2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -330,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703345992214</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="11.02.2023">
+      <option name="closed" value="true" />
+      <created>1703348040028</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1703348040028</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
